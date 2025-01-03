@@ -1,5 +1,4 @@
 // Name: Sohyla Said Mohamed
-// ID: 120210061
 
 #include <iostream>
 #include <GL/glut.h>
