@@ -83,9 +83,6 @@ Holds data for each card, including:
 - Players click on cards to reveal shapes, aiming to match pairs.
 - A win message is displayed after all pairs are matched, along with the total time and move count.
 
-## Screenshots
-*(Include gameplay screenshots here, if possible.)*
-
 ## Future Improvements
 - Support for dynamic grid sizes (e.g., 4x4 or larger).
 - Add sound effects for clicks and matches.
@@ -93,7 +90,7 @@ Holds data for each card, including:
 - Support for two-player mode.
 
 ## License
-This project is open-source and free to use under the MIT License.
+This project is open-source and free to use.
 
 ## Author
 - **Sohyla Said Mohamed**
